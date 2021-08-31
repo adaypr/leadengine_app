@@ -1,4 +1,4 @@
-package com.example.leadengine_app
+package com.example.flutter_authentication
 
 import io.flutter.embedding.android.FlutterActivity
 

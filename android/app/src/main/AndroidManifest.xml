@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.leadengine_app">
+    package="com.example.flutter_authentication">
    <application
-        android:label="leadengine_app"
+        android:label="flutter_authentication"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
